@@ -31,6 +31,9 @@ fields. We encourage you to take a look at it.
 > **Spoiler alert:** There is a reference solution in the `solution`
 > sub-directory. Feel free to compare your implementation to the
 > reference.
+ 
+## Prerequisite
+To ensure a smooth experience with the tutorials, it's essential to review and follow the [Obtaining required software guidelines](https://github.com/p4lang/tutorials#obtaining-required-software) to install required development tools.
 
 ## Step 1: Run the (incomplete) starter code
 
